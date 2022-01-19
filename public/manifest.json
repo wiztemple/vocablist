@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Better Vocabulary",
+  "version": "1.0",
+  "description": "Replace tab screen with a new vocabulary",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+  }
